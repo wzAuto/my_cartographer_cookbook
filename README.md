@@ -1,7 +1,7 @@
 # cartographer cookbook
-tutorial resurces to study cartographer
+tutorial resources to study cartographer
 
-本手册描述了学习cartorgrapher和cartographer_ros的过程。该过程试图包括以下内容：  
+本手册描述了学习cartographer和cartographer_ros的过程。该过程试图包括以下内容：  
 ## cartographer_ros
 1. 激光建图
 2. 激光定位
